@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flare.BattleShip", "Flare.BattleShip\Flare.BattleShip.csproj", "{0F75B6DB-CA3C-44F4-BCE6-624CCF6EA375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flare.BattleShip.Test", "Flare.BattleShip.Test\Flare.BattleShip.Test.csproj", "{A1BC5EA0-E79E-452A-BAD1-2A391DF765F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F75B6DB-CA3C-44F4-BCE6-624CCF6EA375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F75B6DB-CA3C-44F4-BCE6-624CCF6EA375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F75B6DB-CA3C-44F4-BCE6-624CCF6EA375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F75B6DB-CA3C-44F4-BCE6-624CCF6EA375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BC5EA0-E79E-452A-BAD1-2A391DF765F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BC5EA0-E79E-452A-BAD1-2A391DF765F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BC5EA0-E79E-452A-BAD1-2A391DF765F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BC5EA0-E79E-452A-BAD1-2A391DF765F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1311498A-08C9-447C-B496-0CC3A85841BC}
+	EndGlobalSection
+EndGlobal
